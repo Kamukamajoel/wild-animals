@@ -1,0 +1,4 @@
+INDEX VERSION 1.134+C:\Users\And1\Desktop\KAMUKAMA JOEL\.metadata\.plugins\org.eclipse.jdt.core
+1865797976.index
+1840843739.index
+1572459386.index
